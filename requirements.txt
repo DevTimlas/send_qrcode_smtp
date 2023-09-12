@@ -1,4 +1,5 @@
 fastapi
 pydantic
-qrcode
+qrcode==7.4.2
 uvicorn
+pillow==9.2.0
