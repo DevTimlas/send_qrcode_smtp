@@ -1,0 +1,6 @@
+fastapi
+pydantic
+qrcode
+email
+smtplib
+io
