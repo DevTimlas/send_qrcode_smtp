@@ -91,6 +91,6 @@ def send_email_with_qr_code():
     return jsonify({"message": "Email sent with QR code attachment"})
 
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=80)
+# if __name__ == "__main__":
+#     app.run(host='0.0.0.0', port=80)
 
