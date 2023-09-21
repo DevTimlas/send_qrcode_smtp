@@ -5,3 +5,4 @@ uvicorn
 pillow==9.2.0
 flask
 flask-cors
+gunicorn
